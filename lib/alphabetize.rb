@@ -1,3 +1,3 @@
 def alphabetize(arr)
-  # code here
+  es_alphabet = "abcĉdefgĝhĥijĵklmnoprsŝtuŭvz"
 end
